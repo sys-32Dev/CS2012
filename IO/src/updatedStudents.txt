@@ -1,0 +1,6 @@
+Al,82.89
+Brian,98.93
+Carl,96.01
+Dennis,75.72
+Mike,62.01
+Bob,100.0

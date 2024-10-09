@@ -1,0 +1,106 @@
+/home/system32/.jdks/temurin-17.0.12/bin/java -javaagent:/opt/intellij-idea-ultimate/lib/idea_rt.jar=44999:/opt/intellij-idea-ultimate/bin -Dfile.encoding=UTF-8 -classpath /home/system32/IdeaProjects/CS2012/out/production/monsterattack Main
+Menu:
+1. Enter Attacks
+2. Show Attacks
+3. Show Damages
+4. Show Monsters
+0. Exit
+Enter your choice: 1
+Enter attack 1:
+Enter Monster Name:
+Fubuzilla
+Enter Attack Location:
+tokyo
+Enter Damages (Millions):
+44
+Enter attack 2:
+Enter Monster Name:
+Godzilla
+Enter Attack Location:
+new york
+Enter Damages (Millions):
+9
+Enter attack 3:
+Enter Monster Name:
+king kong
+Enter Attack Location:
+new york
+Enter Damages (Millions):
+93
+Enter attack 4:
+Enter Monster Name:
+Fubuzilla
+Enter Attack Location:
+osaka
+Enter Damages (Millions):
+33
+Enter attack 5:
+Enter Monster Name:
+mothman
+
+Enter Attack Location:
+Enter Damages (Millions):
+64
+Menu:
+1. Enter Attacks
+2. Show Attacks
+3. Show Damages
+4. Show Monsters
+0. Exit
+Enter your choice: 2
+Monster Name: Monster Attack Details:
+Monster Name: Fubuzilla
+Location: tokyo
+Damages: $44.0 million
+Date: Tue Oct 08 22:41:46 PDT 2024
+Monster Name: Monster Attack Details:
+Monster Name: Godzilla
+Location: new york
+Damages: $9.0 million
+Date: Tue Oct 08 22:42:01 PDT 2024
+Monster Name: Monster Attack Details:
+Monster Name: king kong
+Location: new york
+Damages: $93.0 million
+Date: Tue Oct 08 22:42:14 PDT 2024
+Monster Name: Monster Attack Details:
+Monster Name: Fubuzilla
+Location: osaka
+Damages: $33.0 million
+Date: Tue Oct 08 22:42:31 PDT 2024
+Monster Name: Monster Attack Details:
+Monster Name: mothman
+Location:
+Damages: $64.0 million
+Date: Tue Oct 08 22:43:13 PDT 2024
+Menu:
+1. Enter Attacks
+2. Show Attacks
+3. Show Damages
+4. Show Monsters
+0. Exit
+Enter your choice: 3
+48.6 damages in million USD (mean)
+243.0 damages in million USD (total)
+Menu:
+1. Enter Attacks
+2. Show Attacks
+3. Show Damages
+4. Show Monsters
+0. Exit
+Enter your choice: 4
+
+Monster Name: Fubuzilla, 2 attack(s)
+Monster Name: Godzilla, 1 attack(s)
+Monster Name: king kong, 1 attack(s)
+Monster Name: Fubuzilla, 1 attack(s)
+Monster Name: mothman, 1 attack(s)
+Menu:
+1. Enter Attacks
+2. Show Attacks
+3. Show Damages
+4. Show Monsters
+0. Exit
+Enter your choice: 0
+
+Process finished with exit code 0
