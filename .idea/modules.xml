@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CS2012.iml" filepath="$PROJECT_DIR$/CS2012.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scaleconverter/Scaleconverter.iml" filepath="$PROJECT_DIR$/Scaleconverter/Scaleconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkpoint1/checkpoint1.iml" filepath="$PROJECT_DIR$/checkpoint1/checkpoint1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw08/hw08.iml" filepath="$PROJECT_DIR$/hw08/hw08.iml" />
       <module fileurl="file://$PROJECT_DIR$/monsterattack/monsterattack.iml" filepath="$PROJECT_DIR$/monsterattack/monsterattack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textfileio/textfileio.iml" filepath="$PROJECT_DIR$/textfileio/textfileio.iml" />
     </modules>
   </component>
 </project>
